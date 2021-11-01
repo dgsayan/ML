@@ -1,3 +1,9 @@
+layout: page
+title: "K Nearest Neighbors"
+permalink: /knn/
+
+
+
 ## The k-NN algorithm
 
 ### 1. Concept
